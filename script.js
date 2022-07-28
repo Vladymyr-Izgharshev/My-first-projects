@@ -1,5 +1,5 @@
-// let array1 = ['a', 'b', 'c', 'd', 'e'];
-// let out = '';
+let array1 = ['a', 'b', 'c', 'd', 'e'];
+let out = '';
 
 // let out = '';
 //
