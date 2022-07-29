@@ -1,5 +1,5 @@
-let array1 = ['a', 'b', 'c', 'd', 'e'];
-let out = '';
+// let array1 = ['a', 'b', 'c', 'd', 'e'];
+// let out = '';
 
 // let out = '';
 //
@@ -16,6 +16,8 @@ let out = '';
 //         out += array1[i] + '_';
 //     }
 // }
+
+
 
 // for (let i = 0; i < array1.length; i++) {
 //     if (i % 2 !== 0) {
